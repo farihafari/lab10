@@ -1,0 +1,27 @@
+﻿@model WeatherForecastApp.Models.WeatherModel
+
+@{
+    ViewBag.Title = "Weather Forecast";
+}
+
+<h2>Weather Forecast</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Enter City Name:</label>
+    <input type="text" name="city" />
+    <input type="submit" value="Get Weather" />
+}
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red;">@ViewBag.Error</p>
+}
+
+@if (Model != null && Model.City != null)
+{
+    <h3>Weather in @Model.City</h3>
+    <p><strong>Temperature:</strong> @Model.Temperature °C</p>
+    <p><strong>Humidity:</strong> @Model.Humidity %</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+}

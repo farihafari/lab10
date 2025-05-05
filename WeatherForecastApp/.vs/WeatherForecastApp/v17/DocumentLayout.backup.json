@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|solutionrelative:views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|c:\\users\\hp\\source\\repos\\weatherforecastapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|solutionrelative:models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|c:\\users\\hp\\source\\repos\\weatherforecastapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD53B3-3324-4595-ABE3-0BD8092D4E3E}|WeatherForecastApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:29:58.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:53:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:51:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:50:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Models\\WeatherModel.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WeatherForecastApp\\Models\\WeatherModel.cs",
+              "RelativeToolTip": "Models\\WeatherModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:44:13.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

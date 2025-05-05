@@ -1,0 +1,23 @@
+﻿@model SoapAppNew.Models.CountryViewModel
+
+@{
+    ViewBag.Title = "Country Info via SOAP";
+}
+
+<h2>Get Capital City</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Enter Country ISO Code (e.g. US, GB, IN):</label>
+        @Html.TextBoxFor(m => m.CountryISOCode)
+    </div>
+    <div>
+        <input type="submit" value="Get Capital" />
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(Model?.CapitalCity))
+{
+    <h3>Capital City: @Model.CapitalCity</h3>
+}
