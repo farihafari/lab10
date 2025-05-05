@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<script src="~/Scripts/jquery-3.7.1.min.js"></script>
+<input id="btn" type="button" value="ClickToSeeAPI" name="name"     />
+<div id="values"></div>
+<script>
+    $(document).ready(function () {
+        $("#btn").click(function () {
+            $("#values").empty(); // Clear previous values
+            $.ajax({
+                type: "GET",
+                url: "/api/Main",
+                dataType: "json",
+                success: function (data) {
+                    var values = "";
+                    for (var i = 0; i < data.length; i++) {
+                        values += "<p>" + data[i].Name + " : " + data[i].Department +" : " + data[i].JoiningDate + "</p>";
+                    }
+                    $("#values").html(values);
+                },
+                error: function (xhr, status, error) {
+                    alert("Error: " + error);
+                }
+            });
+        });
+    });
+    </script>

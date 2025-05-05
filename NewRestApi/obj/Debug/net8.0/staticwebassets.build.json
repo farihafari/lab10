@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4FYCT3d4c8z3VnkI8YdSJNl4zglWd9qMsGt//uxRBPI=",
+  "Source": "NewRestApi",
+  "BasePath": "_content/NewRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
